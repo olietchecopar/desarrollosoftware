@@ -12,3 +12,6 @@
 ## Tema
 ### Descripción
 La idea de nuestro proyecto es realizar un sistema donde se pueda realizar tanto la atención ambulatoria como la de internados de un Sanatorio.
+
+### Modelo
+![imagen del modelo]()
