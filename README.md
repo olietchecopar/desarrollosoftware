@@ -16,14 +16,16 @@ La idea de nuestro proyecto es realizar un sistema donde se pueda realizar tanto
 ### Modelo
 [Modelo de dominio](https://drive.google.com/file/d/1wBtKkQU4HKTCo5D8TnzRwU8Rvve_8nqg/view?usp=sharing)
 
-Alcance Funcional
+##Alcance Funcional
 Alcance Mínimo Aprobación Directa
 |Req|Detalle|
 |:-|:-|
 |CRUD|1. CRUD Paciente<br>2. CRUD Medico<br>3. CRUD Informe<br>4. CRUD Imagen<br>5. CRUD Historia Clínica|
 |Listado<br>+<br>detalle| 1. Listado de pacientes => detalle muestra listado de pacientes registrados en el sanatorio<br> 2. Listado de Operadores Medicos=> detalle informa los medicos registrados <br> 3. Listado de informes de Historia clinica => detalle muestra los estudios realizados por paciente<br> 4. Listado de pacientes internados => detalle muestra los pacientes internados, con sus datos personales y fecha de ingreso|
 |CUU/Epic|1.Dar de alta paciente <br>2. Realizar la recepción de un paciente<br>3. Realizar el check-in y check-out de un paciente internado<br>4. Registrar informe de estudio medico|
-Alcance Adicional Voluntario
+
+
+###Alcance Adicional Voluntario
 Nota: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
 
 |Req|Detalle|
