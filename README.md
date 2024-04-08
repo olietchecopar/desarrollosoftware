@@ -16,7 +16,7 @@ La idea de nuestro proyecto es realizar un sistema donde se pueda realizar tanto
 ### Modelo
 [Modelo de dominio](https://drive.google.com/file/d/1wBtKkQU4HKTCo5D8TnzRwU8Rvve_8nqg/view?usp=sharing)
 
-##Alcance Funcional
+## Alcance Funcional
 Alcance Mínimo Aprobación Directa
 |Req|Detalle|
 |:-|:-|
@@ -25,7 +25,7 @@ Alcance Mínimo Aprobación Directa
 |CUU/Epic|1.Dar de alta paciente <br>2. Realizar la recepción de un paciente<br>3. Realizar el check-in y check-out de un paciente internado<br>4. Registrar informe de estudio medico|
 
 
-###Alcance Adicional Voluntario
+### Alcance Adicional Voluntario
 Nota: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
 
 |Req|Detalle|
