@@ -14,7 +14,7 @@
 La idea de nuestro proyecto es realizar un sistema donde se pueda realizar tanto la atención ambulatoria como la de internados de un Sanatorio.
 
 ### Modelo
-[Modelo de dominio](https://drive.google.com/file/d/1bk3Ce3X_GC5Qf9SOpfZHVr0mbWCVVrll/view?usp=sharing)
+[Modelo de dominio](https://drive.google.com/file/d/1wBtKkQU4HKTCo5D8TnzRwU8Rvve_8nqg/view?usp=sharing)
 
 Alcance Funcional
 Alcance Mínimo Aprobación Directa
